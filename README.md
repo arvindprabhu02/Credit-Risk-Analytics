@@ -1,4 +1,4 @@
-# Finance Credit Risk Analytics
+# Financial Credit Risk Analytics
 
 This repository contains a credit risk and personal loan behavior analysis project using SQL, Python, and Tableau.
 
